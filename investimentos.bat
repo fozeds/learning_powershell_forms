@@ -1,0 +1,1 @@
+powershell .\teste.ps1
